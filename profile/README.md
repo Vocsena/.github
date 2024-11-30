@@ -5,14 +5,14 @@ Hello! We are team vocsena creating the next generation social media app
 ## Team
 
 - Syed Ather Ali - Leader & Project Manager & Designer
-- Annie - DevOps and Backend Engineer - Specialty: C# and mySQL
-- Phoenix - Infrastructure Engineer - Specialty: AWS Cloud
-- Achmet - Full-stack Web Developer - Specialty: MERN Stack
+- Annie - DevOps and Backend Engineer - Specialty: Backend
+- Phoenix - Infrastructure Engineer - Specialty: Cloud / Backend
+- Achmet - Full-stack Web Developer - Specialty: Full Stack
 - Munawar - Back-end Web Developer - Specialty: Back-End
 - Hamid - Full-stack Web Developer - Specialty: Front-End
-- Amina - Full-stack Web Developer - Specialty: ???
+- Amina - Full-stack Web Developer - Specialty: Full Stack
 - Usaid - Full-stack Web Developer - Specialty: Front-End
-- Tayyaba - Junior Web Developer - Specialty: ???
+- Tayyaba - Front-end Web Developer - Specialty: Front-End
 
 ## Tech Stack
 
