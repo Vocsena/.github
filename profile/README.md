@@ -45,4 +45,4 @@ Hello! We are team vocsena creating the next generation social media app
 
 ## Launch Date
 
-25 December 2024
+01 Jan 2025
